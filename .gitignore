@@ -1,0 +1,4 @@
+venv/
+platziawardsapp/platziawardsapp/__pycache__/
+platziawardsapp/polls/__pycache__/
+platziawardsapp/polls/migrations/__pycache__/
